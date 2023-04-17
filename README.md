@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @minkyu-types
-- 👀 I’m interested in keyboard
-- 🌱 I’m currently learning android with Java/Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 Hit me up via lion9638@naver.com
+- 👋 Based in South Korea
+- 🌱 Android developer
+- 💞️ Kotlin, RxJava, whatever.
 
 <!---
 minkyu-types/minkyu-types is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
