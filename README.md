@@ -1,5 +1,5 @@
 - 👋 Based in South Korea
-- 🌱 Android developer
+- 🌱 Android engineer
 - 💞️ Kotlin, RxJava, whatever.
 
 <!---
