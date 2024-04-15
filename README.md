@@ -1,6 +1,6 @@
 - 👋 Based in South Korea
 - 🌱 Android engineer
-- 💞️ Kotlin, RxJava, whatever.
+- 💞️ Kotlin, Coroutines, RxKotlin, Mvvm, Clean architecture, whatever.
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
