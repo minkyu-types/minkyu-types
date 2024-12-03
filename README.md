@@ -1,6 +1,10 @@
-- 👋 Based in South Korea
-- 🌱 Android engineer
-- 💞️ Kotlin, Coroutines, RxKotlin, Mvvm, Clean architecture, whatever.
+**Introduce**
+- Based in 🇰🇷
+- Junoir Android engineer
+- Interested in Kotlin, Coroutines, RxKotlin, Mvvm, Clean architecture
+
+**Side project**
+- Runnerbe (AOS) 2024.07 ~
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
