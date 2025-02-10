@@ -1,6 +1,6 @@
 **Introduce**
 - Based in 🇰🇷
-- Junoir Android engineer
+- Junoir Android developer
 - Interested in Kotlin, Coroutines, RxKotlin, Mvvm, Clean architecture
 
 **Side project**
