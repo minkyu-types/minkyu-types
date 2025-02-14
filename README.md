@@ -4,7 +4,7 @@
 - Interested in Kotlin, Coroutines, RxKotlin, Mvvm, Clean architecture
 
 **Side project**
-- Runnerbe (AOS) 2024.07 ~
+- Runnerbe (Android) 2024.07 ~
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
